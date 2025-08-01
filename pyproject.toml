@@ -13,4 +13,5 @@ dependencies = [
     "langchain-groq>=0.3.6",
     "langchain-openai>=0.3.28",
     "langgraph>=0.5.4",
+    "streamlit>=1.47.1",
 ]
