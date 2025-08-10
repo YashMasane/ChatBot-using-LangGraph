@@ -6,3 +6,4 @@ langchain_community
 langgraph
 dotenv
 streamlit
+langgraph-checkpoint-sqlite
